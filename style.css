@@ -70,6 +70,7 @@ h2{
     box-shadow: 8px 5px 40px;
     padding-left: 10px;
     border-radius: 10px;
+    border-left: 10px solid;
    
 
 }
@@ -79,6 +80,29 @@ h2{
     background-position: left;
 
 }
+.ecperience h1{
+    margin-left: 5%;
+}
+
+#web-experience2{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 5;
+
+}
 
 
+#web-experience1{
+    border-left:8px solid;
+    border-image: linear-gradient(tomato, green);
+    border-image-slice: 1;
+}
+
+footer p{
+    text-align: center;
+}
+
+.ecperience{
+    margin-bottom: 20px;
+}
 
